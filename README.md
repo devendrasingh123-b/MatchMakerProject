@@ -16,9 +16,10 @@ Built with React, Node.js, Express, MongoDB, Redis, Socket.io, and JWT.
 - CSS  
 
 ## 🌐 Live Demo
-[Click Here to Visit]([https://your-netlify-link.netlify.app](https://matchmaker0001.netlify.app/))
+[Click Here to Visit](https://matchmaker0001.netlify.app/)
 
 ## ⚙️ How to Run
 1. Clone the repository  
 2. Run `npm install`  
 3. Run `npm start`
+
